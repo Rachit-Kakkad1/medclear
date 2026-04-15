@@ -8,9 +8,8 @@
   <img src="https://img.shields.io/badge/status-Active-success?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" alt="License">
   <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge" alt="PRs Welcome">
-  <img src="https://img.shields.io/github/last-commit/medclear/medclear?style=for-the-badge" alt="Last Commit">
-  <img src="https://img.shields.io/github/contributors/medclear/medclear?style=for-the-badge" alt="Contributors">
-  <img src="https://img.shields.io/github/stars/medclear/medclear?style=for-the-badge" alt="Stars">
+  <img src="https://img.shields.io/github/last-commit/Rachit-Kakkad1/medclear?style=for-the-badge" alt="Last Commit">
+  <img src="https://img.shields.io/github/contributors/Rachit-Kakkad1/medclear?style=for-the-badge" alt="Contributors">
 </p>
 
 ---
@@ -424,7 +423,7 @@ git push origin feature/amazing-new-feature
 - 🧪 **Testing** — Increase test coverage
 - 🔍 **Security** — Audit for vulnerabilities
 
-> 💡 Looking for a way to contribute? Check out our [Good First Issues](https://github.com/medclear/medclear/labels/good%20first%20issue) label.
+> 💡 Looking for a way to contribute? Check out our [Good First Issues](https://github.com/Rachit-Kakkad1/medclear/labels/good%20first%20issue) label.
 
 ---
 
