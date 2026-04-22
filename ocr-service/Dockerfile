@@ -27,9 +27,6 @@ RUN pip install --upgrade pip && \
 # -------- Copy App --------
 COPY . .
 
-# -------- Preload OCR Models --------
-RUN python -m app.utils.download_models
-
 # -------- Create Non-root User (security) --------
 RUN useradd -m appuser
 USER appuser
